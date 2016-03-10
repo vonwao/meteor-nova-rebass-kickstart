@@ -39,11 +39,11 @@ const schema = new SimpleSchema({
   userId: {
     type: String,
     publish: true,
-    join: {
-      collection: () => Meteor.users,
-      joinAs: "user",
-      fields: ["_id", "username"]
-    }
+    //join: {
+    //  collection: () => Meteor.users,
+    //  joinAs: "user",
+    //  fields: ["_id", "username"]
+    //}
   }
 });
 

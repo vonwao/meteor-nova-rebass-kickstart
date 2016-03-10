@@ -6,9 +6,13 @@
     "formsy-react-components": "^0.6.6",
     "react": "^0.14.6",
     "react-dom": "^0.14.6",
+    "react-modal": "^0.6.1",
     "react-mounter": "^1.1.0",
     "react-no-ssr": "^1.0.1",
-    "react-modal": "^0.6.1"
+    "rebass": "^0.2.1",
+    "reflexbox": "^1.0.0",
+    "react-geomicons": "^2.0.4",
+    "sheetrock": "^1.0.1"
   },
   "private": true
 }

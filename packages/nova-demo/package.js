@@ -25,7 +25,8 @@ Package.onUse(function (api) {
 
   api.addFiles([
     'demo-component.jsx',
-    'demo-app.jsx'
+    'demo-app.jsx',
+    'time-page.jsx'
   ], ['client', 'server']);
 
   api.export([
