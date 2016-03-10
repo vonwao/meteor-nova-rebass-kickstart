@@ -59,7 +59,7 @@ class App extends React.Component {
     this.resetTheme = this.resetTheme.bind(this)
   }
 
-  childContextTypes: {
+  static childContextTypes = {
     rebass: React.PropTypes.object
   }
 
