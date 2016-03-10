@@ -12,14 +12,7 @@ nova:core
 
 # Note: all following packages depend on nova:core
 
-nova:users
-nova:posts
-nova:comments
-nova:newsletter
-nova:search
-nova:notifications
-nova:getting-started
-nova:categories
+#nova:users
 
 # nova:voting
 # nova:migrations
@@ -36,7 +29,7 @@ nova:categories
 
 ############ Customizable Packages ############
 
-base-components
-base-styles
+#base-components
+#base-styles
 
 nova-demo
